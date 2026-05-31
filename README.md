@@ -119,4 +119,4 @@ Data flows *down* through props and events flow *up* through callbacks.
 ## Deployment
 Deployed to **GitHub Pages** via the `gh-pages` branch.
 
-🔗 https://1920heidi.github.io/Showcase/
+[Deployed link](https://1920heidi.github.io/ShowcasB/)
