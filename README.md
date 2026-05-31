@@ -34,7 +34,7 @@ Home — add/edit form, search, and project list | default / "Projects" and "Add
 
 ## Features
 
-| Feature | Works|
+| Feature | How it works|
 |---------|--------------|
 | **Search** | Filters projects by **title** or **description**, case-insensitive, as you type. |
 | **Add** | The "Add Project" form creates a new project (Title + Description required, Image URL optional) and adds it to the top of the list. |
